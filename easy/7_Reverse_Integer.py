@@ -26,4 +26,4 @@ class Solution:
         if ans > (1<<31) - 1 or ans < (1<<31) * -1:
             return 0
         else:
-            return an
+            return ans
